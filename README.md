@@ -15,3 +15,4 @@ I did not initially push my codes originally from VS code, so after watching som
 folders and file on my repository so i had to write another read me text
 
 ## Screenshot of live preview
+<img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/7076b8fb-9d81-458d-89d1-4f584f2ce7c5" />
